@@ -1,5 +1,8 @@
-main {
+body {
     /* text-align: center; */
+    margin-left: 80em;
+    padding-left: 5em;
+
 }
 
 .red-text {
