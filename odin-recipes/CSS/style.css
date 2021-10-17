@@ -1,0 +1,15 @@
+body {
+    /* text-align: center; */
+    margin-left: 80em;
+    padding-left: 5em;
+
+}
+
+.red-text {
+  color: red;
+}
+
+p {
+  font-size: 16px;
+   font-family: monospace;
+}
