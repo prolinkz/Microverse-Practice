@@ -38,3 +38,17 @@ alert(`Your date of birth is ${dob - 2021}`);
 let age = prompt("how old are you?",'');
 let conf = confirm(`Your you ${age}?`);
 alert(`Confirmed, your age is ${conf}`);
+
+
+// // Age Restriction for below 18 years old Age
+
+// let age18 = confirm("Are you are 18 years old ");
+// let yourName = prompt("Enter Your Name","");
+// let yourAge = prompt("Enter Your year of Birth");
+//  alert(`Welcome ${yourName} your age is ${yourAge - 2021}`);
+
+
+
+
+
+
