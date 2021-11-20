@@ -33,3 +33,8 @@ alert(`Your age is ${2021 - age}`);
 // Find DATE OF BIRTH
 let dob = prompt("How old are you", 'in years' );
 alert(`Your date of birth is ${dob - 2021}`);
+
+//All 3 couple of Action functions to interact with the user: alert, prompt and confirm.
+let age = prompt("how old are you?",'');
+let conf = confirm(`Your you ${age}?`);
+alert(`Confirmed, your age is ${conf}`);
